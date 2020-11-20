@@ -9,11 +9,6 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>TLS</string>
-				<key>ServerAddresses</key>
-				<array>
-					<string></string>
-					<string></string>
-				</array>
 				<key>ServerName</key>
 				<string>bbsq38.d.rubyfish.cn</string>
 			</dict>

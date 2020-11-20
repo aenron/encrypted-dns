@@ -36,7 +36,7 @@
 	<key>PayloadDescription</key>
 	<string>Adds the rubyfish DNS to Big Sur and iOS 14 based systems</string>
 	<key>PayloadDisplayName</key>
-	<string>rubyfish DNS over TLS</string>
+	<string>rubyfishdns DNS over TLS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.paulmillr.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>

@@ -10,7 +10,7 @@
 				<key>DNSProtocol</key>
 				<string>TLS</string>
 				<key>ServerName</key>
-				<string>bbsq38.d.rubyfish.cn</string>
+				<string>bbsq38.dbj.rubyfish.cn</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Tiarap Encrypted DNS over TLS</string>

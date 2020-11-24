@@ -9,6 +9,10 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>TLS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>81.70.202.27</string>
+				</array>
 				<key>ServerName</key>
 				<string>adroot.xyz</string>
 			</dict>

@@ -10,7 +10,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://doh.tiar.app/dns-query</string>
+				<string>https://adroot.xyz:444/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Tiarap Encrypted DNS over HTTPS</string>
